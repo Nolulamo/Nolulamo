@@ -9,6 +9,27 @@ Beyond my electronic engineering background, I have also ventured into the realm
 
 When I'm not immersed in my technological pursuits, I find solace in spending quality time with my loved ones. Additionally, I have a keen interest in reading self-development books, as they provide valuable insights and fuel my continuous quest for personal and professional improvement.
 
+## Technologies
+    - HTML
+    - SASS
+    - BOOTSTRAP
+    - jQuery
+    - JavaScript
+    - C
+    - Python
+    - Django
+    - MySQL
+
+## Skills
+    - Critical Thinking
+    - Time management
+    - SEO
+    - SEM
+    - Excellent Communication Skills
+    - Team work
+
+    
+
 <!--
 **Nolulamo/Nolulamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
