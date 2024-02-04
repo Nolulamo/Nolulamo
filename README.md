@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nolulamo Tshuma
+### Hi, I'm Nolulamo Tshuma
 
 ## About Me
 I am a versatile graduate Electronic Engineer. I believe that the continuous pursuit of knowledge is the key to success.
@@ -28,19 +28,4 @@ When I'm not immersed in my technological pursuits, I find solace in spending qu
     - Excellent Communication Skills
     - Team work
 
-    
-
-<!--
-**Nolulamo/Nolulamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning AWS 
