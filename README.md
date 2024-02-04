@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nolulamo Tshuma
 
 ## About Me
-I am a versatile graduate electronic engineer seeking a position as a graduate trainee. I believe that the continuous pursuit of knowledge is the key to success.
+I am a versatile graduate Electronic Engineer. I believe that the continuous pursuit of knowledge is the key to success.
 
 I have a deep passion for working with embedded systems and IoT technologies, which initially sparked my interest in electronic engineering. In addition, I have a strong affinity for control engineering and automation, as they offer fascinating opportunities to optimize and streamline processes.
 
